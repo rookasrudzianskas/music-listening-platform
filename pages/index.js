@@ -7,7 +7,9 @@ export default function Home() {
         <title>Spotify ✳️</title>
       </Head>
 
-        <h1 className="text-6xl font-bold text-black cursor-pointer">Spotify Clone</h1>
+        <div className="hover:cursor-pointer">
+            <h1 className="text-6xl font-bold text-black ">Spotify Clone</h1>
+        </div>
 
     </div>
   )
