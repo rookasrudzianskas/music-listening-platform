@@ -7,7 +7,6 @@ export default function Home() {
         <title>Spotify ✳️</title>
       </Head>
 
-      <h1>Done</h1>
     </div>
   )
 }
