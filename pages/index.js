@@ -7,7 +7,7 @@ export default function Home() {
         <title>Spotify ✳️</title>
       </Head>
 
-        <h1>Spotify Clone</h1>
+        <h1 className="text-6xl font-bold text-black">Spotify Clone</h1>
 
     </div>
   )
