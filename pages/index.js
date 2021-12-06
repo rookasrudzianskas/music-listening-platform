@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
         <div className="hover:cursor-pointer">
-            <h1 className="text-6xl font-bold text-black ">Spotify Clone</h1>
+            <h1 className="text-6xl font-bold text-black ">Spotify Clone 🔥</h1>
         </div>
 
     </div>
