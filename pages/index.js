@@ -8,7 +8,14 @@ export default function Home() {
         <title>Spotify ✳️</title>
       </Head>
 
-        div
+        <main>
+            {/*    sidebar  */}
+            {/*    center   */}
+        </main>
+
+        <div>
+            {/*    player */}
+        </div>
 
     </div>
   )
